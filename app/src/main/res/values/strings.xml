@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Evento Admin</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="password_hint">Password</string>
+    <string name="email_id_hint">Email / Username</string>
+    <string name="sign_in_to_continue_text">Sign In To Continue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
